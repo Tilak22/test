@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2736" started-at="2019-10-18T07:37:41Z" finished-at="2019-10-18T07:37:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2736" started-at="2019-10-18T07:37:41Z" finished-at="2019-10-18T07:37:44Z">
+      <class name="scripts.TestExcel">
+        <test-method status="PASS" signature="readxl()[pri:0, instance:scripts.TestExcel@64d2d351]" name="readxl" duration-ms="1579" started-at="2019-10-18T07:37:41Z" finished-at="2019-10-18T07:37:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readxl -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:scripts.TestExcel@64d2d351]" name="initialization" is-config="true" duration-ms="0" started-at="2019-10-18T07:37:41Z" finished-at="2019-10-18T07:37:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="writexl()[pri:0, instance:scripts.TestExcel@64d2d351]" name="writexl" duration-ms="985" started-at="2019-10-18T07:37:43Z" finished-at="2019-10-18T07:37:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writexl -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:scripts.TestExcel@64d2d351]" name="quit" is-config="true" duration-ms="0" started-at="2019-10-18T07:37:43Z" finished-at="2019-10-18T07:37:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:scripts.TestExcel@64d2d351]" name="initialization" is-config="true" duration-ms="0" started-at="2019-10-18T07:37:43Z" finished-at="2019-10-18T07:37:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:scripts.TestExcel@64d2d351]" name="quit" is-config="true" duration-ms="0" started-at="2019-10-18T07:37:44Z" finished-at="2019-10-18T07:37:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- scripts.TestExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
